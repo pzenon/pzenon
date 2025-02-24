@@ -10,5 +10,5 @@ _Subject to change as I learn more about what I don't know_
 #### [Computer Science](https://roadmap.sh/computer-science)
 **Learn C** -> Data Structures -> Asymptotic Notation -> ... -> [Data Structures and Algorithms](https://roadmap.sh/datastructures-and-algorithms)
 #### Frontend Development
-HTML -> CSS -> **JavaScript** - > learn more about libraries and start building a project
+HTML -> CSS -> **JavaScript** - > Learn more about libraries and start building a project
 
